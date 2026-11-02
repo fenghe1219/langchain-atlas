@@ -2,11 +2,21 @@
 
 一份面向“有基础 Python、但没做过 AI 应用”的学习者的 LangChain 教程网站。
 
+**在线学习：** <https://fenghe1219.github.io/langchain-atlas/>
+
+**GitHub 仓库：** <https://github.com/fenghe1219/langchain-atlas>
+
 ![LangChain Atlas 首页预览](preview.png)
 
 ## 怎么打开
 
-最简单的方式：直接双击 `index.html`。
+### 在线访问
+
+直接用浏览器打开 <https://fenghe1219.github.io/langchain-atlas/>，无需安装任何软件，也无需 GitHub 账号。
+
+### 本地打开
+
+如果希望离线学习，可以直接双击 `index.html`。
 
 如果浏览器对本地文件限制较多，也可以在项目目录运行：
 
